@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>venkatesh</id>
         <name>release softx</name>
         <url>http://54.203.148.213:8081/repository/venkatesh/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
+        <id>venkatesh</id>
         <name>snapshot softx</name>
         <url>http://54.203.148.213:8081/repository/venkatesh-snapshot/</url>
     </snapshotRepository>
