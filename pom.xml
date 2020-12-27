@@ -42,12 +42,12 @@
     <repository>
         <id>venkatesh</id>
         <name>release softx</name>
-        <url>http://54.203.148.213:8081/repository/venkatesh/</url>
+        <url>http://35.161.114.125:8081/repository/venkatesh/</url>
     </repository>
     <snapshotRepository>
         <id>venkatesh</id>
         <name>snapshot softx</name>
-        <url>http://54.203.148.213:8081/repository/venkatesh-snapshot/</url>
+        <url>http://35.161.114.125:8081/repository/venkatesh-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
